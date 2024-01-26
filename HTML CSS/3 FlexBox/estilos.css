@@ -1,0 +1,22 @@
+.contenedor {
+    width: 80%;
+    height: 500px;
+    background: #ff5c29;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    align-content: space-between;
+    justify-content: space-between;
+}
+.hijo{
+    background: #00B285;
+    width: 200px;
+    height: 100px;
+    color: #fff;
+    margin: 30px;
+    padding: 20px;
+    font-size: 40px;
+    text-align: center;
+}

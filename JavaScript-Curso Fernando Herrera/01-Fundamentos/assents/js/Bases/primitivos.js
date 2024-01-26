@@ -1,0 +1,11 @@
+let nombre = 'Peter Parker';
+console.log(typeof nombre);
+nombre = 123;
+console.log(typeof nombre);
+let esMarvel = true;
+console.log(typeof esMarvel);
+edad = 33.3;
+console.log(typeof edad);
+let superPoder;
+console.log(typeof superPoder);
+let symbol1 = Symbol('a');
